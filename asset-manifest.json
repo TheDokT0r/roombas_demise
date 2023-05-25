@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/roombas_demise/static/css/main.1fec9f41.css",
-    "main.js": "/roombas_demise/static/js/main.fc2f555b.js",
+    "main.css": "/roombas_demise/static/css/main.58bc0513.css",
+    "main.js": "/roombas_demise/static/js/main.6c7a1b55.js",
     "static/js/787.2ed2db0c.chunk.js": "/roombas_demise/static/js/787.2ed2db0c.chunk.js",
     "index.html": "/roombas_demise/index.html",
-    "main.1fec9f41.css.map": "/roombas_demise/static/css/main.1fec9f41.css.map",
-    "main.fc2f555b.js.map": "/roombas_demise/static/js/main.fc2f555b.js.map",
+    "main.58bc0513.css.map": "/roombas_demise/static/css/main.58bc0513.css.map",
+    "main.6c7a1b55.js.map": "/roombas_demise/static/js/main.6c7a1b55.js.map",
     "787.2ed2db0c.chunk.js.map": "/roombas_demise/static/js/787.2ed2db0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fec9f41.css",
-    "static/js/main.fc2f555b.js"
+    "static/css/main.58bc0513.css",
+    "static/js/main.6c7a1b55.js"
   ]
 }
