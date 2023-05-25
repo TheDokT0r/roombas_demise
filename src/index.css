@@ -1,13 +1,47 @@
+/* Make app dark mode */
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+a {
+  color: #fff;
+}
+
+.post_container {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+  text-shadow: 1px 1px 1px #000;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+}
+
+p {
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+
+footer {
+  margin-top: 2rem;
+  text-align: center;
 }
