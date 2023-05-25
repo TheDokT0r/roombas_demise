@@ -26,6 +26,7 @@ export default function App() {
   return (
     <div>
       <h1>Roomba's Demise</h1>
+      <h2>The end is nigh for Roomba.</h2>
       <div>
         <h3>Top Posts</h3>
         <ul style={{ listStyleType: 'none', padding: 0 }}>
